@@ -23,11 +23,10 @@ class Solution {
         }
 
         int sum = 0;
-
-        for (int i = 0; i < n; i++) {
+        for(int i = 0; i<n; i++) {
             sum += ans[i];
         }
-
         return sum;
+
     }
 }
