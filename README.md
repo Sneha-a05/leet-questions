@@ -27,5 +27,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
