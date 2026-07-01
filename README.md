@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
