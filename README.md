@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sneha-a05/leet-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sneha-a05/leet-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
