@@ -31,10 +31,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
