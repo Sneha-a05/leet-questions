@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sneha-a05/leet-questions/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
