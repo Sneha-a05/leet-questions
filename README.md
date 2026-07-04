@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sneha-a05/leet-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,8 +70,29 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sneha-a05/leet-questions/tree/master/0015-3sum) |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
