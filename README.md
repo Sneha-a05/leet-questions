@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Sneha-a05/leet-questions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Sneha-a05/leet-questions/tree/master/0185-department-top-three-salaries) |
 ## Matrix
 |  |
 | ------- |
