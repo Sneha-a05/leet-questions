@@ -112,6 +112,7 @@
 | [0185-department-top-three-salaries](https://github.com/Sneha-a05/leet-questions/tree/master/0185-department-top-three-salaries) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sneha-a05/leet-questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Sneha-a05/leet-questions/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/Sneha-a05/leet-questions/tree/master/0601-human-traffic-of-stadium) |
 ## Matrix
 |  |
 | ------- |
