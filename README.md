@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Sneha-a05/leet-questions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
