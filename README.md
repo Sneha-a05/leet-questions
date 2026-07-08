@@ -50,6 +50,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sneha-a05/leet-questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sneha-a05/leet-questions/tree/master/0058-length-of-last-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sneha-a05/leet-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
