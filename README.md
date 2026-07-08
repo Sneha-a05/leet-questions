@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
