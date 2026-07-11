@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-a05/leet-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-a05/leet-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 ## Prefix Sum
 |  |
