@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-a05/leet-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sneha-a05/leet-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 ## Greedy
@@ -59,6 +60,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-a05/leet-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sneha-a05/leet-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sneha-a05/leet-questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Sneha-a05/leet-questions/tree/master/0058-length-of-last-word) |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sneha-a05/leet-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
