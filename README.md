@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
@@ -29,6 +30,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sneha-a05/leet-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sneha-a05/leet-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sneha-a05/leet-questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sneha-a05/leet-questions/tree/master/0058-length-of-last-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -102,6 +105,7 @@
 | [0015-3sum](https://github.com/Sneha-a05/leet-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sneha-a05/leet-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sneha-a05/leet-questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
