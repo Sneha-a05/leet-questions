@@ -166,6 +166,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -192,4 +193,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sneha-a05/leet-questions/tree/master/1291-sequential-digits) |
+## Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
