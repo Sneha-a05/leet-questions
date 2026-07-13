@@ -183,4 +183,8 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/0060-permutation-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Sneha-a05/leet-questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
