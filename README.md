@@ -21,6 +21,7 @@
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
+| [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
+| [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
+| [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 ## Prefix Sum
 |  |
