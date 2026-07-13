@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-a05/leet-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
@@ -100,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-a05/leet-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
 ## Sorting
 |  |
 | ------- |
