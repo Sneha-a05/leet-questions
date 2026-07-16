@@ -27,6 +27,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-a05/leet-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-a05/leet-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sneha-a05/leet-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -218,8 +222,13 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-a05/leet-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
