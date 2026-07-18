@@ -69,6 +69,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-a05/leet-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-a05/leet-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
