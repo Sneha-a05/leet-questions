@@ -24,6 +24,7 @@
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
+| [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -192,6 +193,7 @@
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
+| [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 ## Prefix Sum
 |  |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sneha-a05/leet-questions/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
