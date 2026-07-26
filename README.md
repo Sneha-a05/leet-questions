@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/Sneha-a05/leet-questions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0059-spiral-matrix-ii) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sneha-a05/leet-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sneha-a05/leet-questions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
