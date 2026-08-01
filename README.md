@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
+| [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
@@ -121,6 +122,7 @@
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -131,6 +133,7 @@
 | [0043-multiply-strings](https://github.com/Sneha-a05/leet-questions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-a05/leet-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-a05/leet-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -326,4 +330,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
