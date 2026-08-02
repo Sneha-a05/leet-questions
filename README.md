@@ -28,6 +28,7 @@
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
@@ -123,6 +124,7 @@
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -135,6 +137,7 @@
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-a05/leet-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-a05/leet-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -334,4 +337,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
