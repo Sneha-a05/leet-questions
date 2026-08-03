@@ -37,6 +37,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-a05/leet-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-a05/leet-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -66,6 +67,7 @@
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sneha-a05/leet-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sneha-a05/leet-questions/tree/master/3536-maximum-product-of-two-digits) |
