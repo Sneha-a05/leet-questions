@@ -18,6 +18,7 @@
 | [0040-combination-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sneha-a05/leet-questions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Sneha-a05/leet-questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
@@ -176,6 +177,7 @@
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Sneha-a05/leet-questions/tree/master/0046-permutations) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
