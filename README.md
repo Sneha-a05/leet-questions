@@ -267,11 +267,13 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Sneha-a05/leet-questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Sneha-a05/leet-questions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Sneha-a05/leet-questions/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
