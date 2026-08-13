@@ -42,6 +42,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-a05/leet-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-a05/leet-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sneha-a05/leet-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-a05/leet-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -123,6 +124,7 @@
 | [0091-decode-ways](https://github.com/Sneha-a05/leet-questions/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -371,6 +373,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Game Theory
 |  |
@@ -398,4 +401,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sneha-a05/leet-questions/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
