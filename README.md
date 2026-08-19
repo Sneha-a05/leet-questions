@@ -38,6 +38,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sneha-a05/leet-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -64,6 +65,7 @@
 | [0041-first-missing-positive](https://github.com/Sneha-a05/leet-questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-a05/leet-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sneha-a05/leet-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +82,7 @@
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sneha-a05/leet-questions/tree/master/0029-divide-two-integers) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-a05/leet-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
