@@ -243,6 +243,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-a05/leet-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0092-reverse-linked-list-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
