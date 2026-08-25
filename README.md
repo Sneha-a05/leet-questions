@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
@@ -156,6 +157,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sneha-a05/leet-questions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
@@ -302,6 +304,7 @@
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
