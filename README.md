@@ -265,6 +265,7 @@
 | [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0092-reverse-linked-list-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sneha-a05/leet-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
