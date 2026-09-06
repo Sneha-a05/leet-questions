@@ -149,6 +149,7 @@
 | [0058-length-of-last-word](https://github.com/Sneha-a05/leet-questions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Sneha-a05/leet-questions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Sneha-a05/leet-questions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Sneha-a05/leet-questions/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/Sneha-a05/leet-questions/tree/master/1927-sum-game) |
@@ -177,6 +178,7 @@
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Sneha-a05/leet-questions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Sneha-a05/leet-questions/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
