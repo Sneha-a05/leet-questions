@@ -20,6 +20,7 @@
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sneha-a05/leet-questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Sneha-a05/leet-questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sneha-a05/leet-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Sneha-a05/leet-questions/tree/master/0057-insert-interval) |
@@ -254,6 +255,7 @@
 | [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sneha-a05/leet-questions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sneha-a05/leet-questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Sneha-a05/leet-questions/tree/master/0077-combinations) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -500,4 +502,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sneha-a05/leet-questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
