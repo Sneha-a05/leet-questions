@@ -44,6 +44,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sneha-a05/leet-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1534-count-good-triplets](https://github.com/Sneha-a05/leet-questions/tree/master/1534-count-good-triplets) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/Sneha-a05/leet-questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-a05/leet-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sneha-a05/leet-questions/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/Sneha-a05/leet-questions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sneha-a05/leet-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sneha-a05/leet-questions/tree/master/3499-maximize-active-section-with-trade-i) |
