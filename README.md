@@ -108,6 +108,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Sneha-a05/leet-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/Sneha-a05/leet-questions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sneha-a05/leet-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -139,6 +140,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Sneha-a05/leet-questions/tree/master/0086-partition-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sneha-a05/leet-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-a05/leet-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -165,6 +167,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/Sneha-a05/leet-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sneha-a05/leet-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sneha-a05/leet-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -201,6 +204,7 @@
 | [1406-stone-game-iii](https://github.com/Sneha-a05/leet-questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-a05/leet-questions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Sneha-a05/leet-questions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-a05/leet-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sneha-a05/leet-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
