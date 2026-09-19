@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sneha-a05/leet-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -314,6 +315,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-a05/leet-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Sneha-a05/leet-questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sneha-a05/leet-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
@@ -442,12 +444,14 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
@@ -532,6 +536,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
