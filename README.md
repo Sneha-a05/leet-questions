@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sneha-a05/leet-questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sneha-a05/leet-questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sneha-a05/leet-questions/tree/master/0048-rotate-image) |
@@ -150,6 +151,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-a05/leet-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Sneha-a05/leet-questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sneha-a05/leet-questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Sneha-a05/leet-questions/tree/master/0086-partition-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -201,6 +203,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sneha-a05/leet-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0064-minimum-path-sum) |
@@ -358,6 +361,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sneha-a05/leet-questions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -480,6 +484,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
