@@ -187,6 +187,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sneha-a05/leet-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sneha-a05/leet-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sneha-a05/leet-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-a05/leet-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -377,6 +378,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -591,4 +593,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
