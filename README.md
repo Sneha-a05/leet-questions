@@ -117,6 +117,7 @@
 | [0045-jump-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sneha-a05/leet-questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-a05/leet-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -183,6 +184,7 @@
 | [0093-restore-ip-addresses](https://github.com/Sneha-a05/leet-questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Sneha-a05/leet-questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sneha-a05/leet-questions/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
@@ -225,6 +227,7 @@
 | [0115-distinct-subsequences](https://github.com/Sneha-a05/leet-questions/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sneha-a05/leet-questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/Sneha-a05/leet-questions/tree/master/0978-longest-turbulent-subarray) |
@@ -380,6 +383,7 @@
 | [0042-trapping-rain-water](https://github.com/Sneha-a05/leet-questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sneha-a05/leet-questions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sneha-a05/leet-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sneha-a05/leet-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -605,6 +609,7 @@
 | [0020-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sneha-a05/leet-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
