@@ -185,6 +185,7 @@
 | [0093-restore-ip-addresses](https://github.com/Sneha-a05/leet-questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Sneha-a05/leet-questions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sneha-a05/leet-questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sneha-a05/leet-questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sneha-a05/leet-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -316,6 +317,7 @@
 | [0051-n-queens](https://github.com/Sneha-a05/leet-questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Sneha-a05/leet-questions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Sneha-a05/leet-questions/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -443,6 +445,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
