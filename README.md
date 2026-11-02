@@ -33,6 +33,7 @@
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha-a05/leet-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Sneha-a05/leet-questions/tree/master/0835-image-overlap) |
@@ -293,6 +294,7 @@
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha-a05/leet-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sneha-a05/leet-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sneha-a05/leet-questions/tree/master/0836-rectangle-overlap) |
@@ -369,6 +371,7 @@
 | [0016-3sum-closest](https://github.com/Sneha-a05/leet-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sneha-a05/leet-questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-a05/leet-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
