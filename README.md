@@ -407,6 +407,7 @@
 | [0086-partition-list](https://github.com/Sneha-a05/leet-questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sneha-a05/leet-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sneha-a05/leet-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
@@ -497,6 +498,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -508,6 +510,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
@@ -568,6 +571,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sneha-a05/leet-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -579,6 +583,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sneha-a05/leet-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
