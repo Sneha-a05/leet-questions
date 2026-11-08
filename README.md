@@ -43,6 +43,7 @@
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Sneha-a05/leet-questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -442,6 +443,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-a05/leet-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-a05/leet-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sneha-a05/leet-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -488,6 +490,7 @@
 | [0835-image-overlap](https://github.com/Sneha-a05/leet-questions/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Sneha-a05/leet-questions/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/Sneha-a05/leet-questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-a05/leet-questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sneha-a05/leet-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sneha-a05/leet-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -509,6 +512,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sneha-a05/leet-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -523,6 +527,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sneha-a05/leet-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sneha-a05/leet-questions/tree/master/3310-remove-methods-from-project) |
@@ -531,6 +536,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sneha-a05/leet-questions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sneha-a05/leet-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-a05/leet-questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sneha-a05/leet-questions/tree/master/2685-count-the-number-of-complete-components) |
