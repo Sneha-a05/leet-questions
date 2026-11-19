@@ -30,6 +30,7 @@
 | [0064-minimum-path-sum](https://github.com/Sneha-a05/leet-questions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sneha-a05/leet-questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sneha-a05/leet-questions/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/Sneha-a05/leet-questions/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/Sneha-a05/leet-questions/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sneha-a05/leet-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -118,6 +119,7 @@
 | [0037-sudoku-solver](https://github.com/Sneha-a05/leet-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sneha-a05/leet-questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sneha-a05/leet-questions/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Sneha-a05/leet-questions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-a05/leet-questions/tree/master/1386-cinema-seat-allocation) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sneha-a05/leet-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/Sneha-a05/leet-questions/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sneha-a05/leet-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -609,6 +612,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -621,6 +625,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sneha-a05/leet-questions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sneha-a05/leet-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sneha-a05/leet-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sneha-a05/leet-questions/tree/master/0979-distribute-coins-in-binary-tree) |
